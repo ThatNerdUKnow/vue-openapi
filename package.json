@@ -34,7 +34,7 @@
     "json-stringify-pretty-compact": "^1.2.0",
     "marked": "^0.3.19",
     "vue-material": "^0.8.1",
-    "vue-resource": "^1.5.1"
+    "vue-resource": "^1.5.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
